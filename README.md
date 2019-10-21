@@ -1,5 +1,5 @@
 # hello-world
 
-Hi Peoples1!
+Hi Peoples!
 
 I like to sleep eat and chill
